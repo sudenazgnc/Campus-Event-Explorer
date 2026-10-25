@@ -2,7 +2,7 @@
 
 **Course:** BIM493 - Mobile Programming I | Assignment #1
 **Semester:** 2026–2027 Fall
-**Due Date:** October 25, 2026, 23:59
+**Due Date:** October 25, 2026
 
 ## Team Members & Contributions
 
